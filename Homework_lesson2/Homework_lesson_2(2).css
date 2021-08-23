@@ -1,0 +1,113 @@
+body {
+    text-align: center;
+}
+
+/* header */
+.header {
+    background: #ffffffb3;
+    font-size: 30px;
+    text-align: right;
+}
+
+.heading__highlighting__hobbies {
+text-align: right;
+font-family: "DIN Pro Сondensed";
+color: black;
+margin: auto 20px;
+}
+
+.heading__highlighting__hobbies:hover {
+color: gray;
+}
+
+.line-after-header {
+width: 100%;
+height: 2px;
+margin-top: 20px;
+background-color: black;
+}
+
+/* awesome */
+.awesome {
+    margin: 100px auto 87px;
+}
+
+.awesome-header {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: black;
+}
+
+.awesome-subtitle {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #86878B;
+}
+
+/* answer */
+.answer {
+    font-size: 0;
+}
+.answer-content {
+    width: 33.33%;
+    display: inline-block;
+}
+
+.answer-header {
+    font-family: Georgia, serif;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #333333;
+    margin-bottom: 16px;
+}
+
+.answer-subtitle {
+    font-family: Georgia, serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+    margin: auto 32px;
+}
+
+/* line */
+.underline {
+    width: 64px;
+    height: 2px;
+    border: 0 solid #E72424;
+    margin: 18px auto 30px;
+}
+
+/* image  */
+/* почему сглаживаются углы на иконке */
+.icons {
+    margin: 30px auto 30px;
+    width: 40px;
+    height: 40px;
+    border: 2px solid red;
+    border-radius: 50%;
+    padding: 15px;
+}
+
+ /* picture */
+ .picture {
+    height: 225px;
+    width: 250px;
+    float: left;
+    padding-left: 10px;
+ } 
+
+
+ .picture2 {
+    height: 225px;
+    width: 250px;
+    float: right;
+    padding-left: 10px;
+ }

@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+}
+
+/* awesome */
+.awesome {
+    margin: 100px auto 87px;
+}
+
+.awesome-header {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: black;
+}
+
+.awesome-subtitle {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #86878B;
+}
+
+/* answer */
+.answer {
+    font-size: 0;
+}
+.answer-content {
+    width: 33.33%;
+    display: inline-block;
+}
+
+.answer-header {
+    font-family: Georgia, serif;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #333333;
+    margin-bottom: 16px;
+}
+
+.answer-subtitle {
+    font-family: Georgia, serif;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+    margin: auto 32px;
+}
+
+/* line */
+.underline {
+    width: 64px;
+    height: 2px;
+    border: 0 solid #E72424;
+    margin: 25px auto 30px;
+}
+
+/* image  */
+/* почему сглаживаются углы на иконке */
+img {
+    margin: 67px auto 30px;
+    width: 40px;
+    height: 40px;
+    border: 2px solid red;
+    border-radius: 50%;
+    padding: 15px;
+}
